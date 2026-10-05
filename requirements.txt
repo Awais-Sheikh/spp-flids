@@ -1,0 +1,7 @@
+# Exact versions used in the Kaggle notebook are still to be recorded (run `pip list` in the notebook).
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+torch
